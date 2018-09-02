@@ -1,2 +1,1 @@
-# anbaks.github.io
-Talks about technology
+# ellemaker blog site

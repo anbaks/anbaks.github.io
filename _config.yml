@@ -1,12 +1,12 @@
 # Site settings
-title:          anbaks
+title:          Anbaks
 description:    "Anbaks talks about latest technology from development to user end"
 baseurl:        ""
 url:            "https://anbaks.github.io/"
 
 # Author
 author:
-  name:         ellemaker
+  name:         Anbaks
   url:          https://anbaks.github.io/
   email:        anbaks2000@gmail.com
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cebu Photowalk by Asus PH"
-author: "ellemaker"
+author: "Anbaks"
 categories: Photography
 ---
 

@@ -3,6 +3,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   {% if page.title == "Home" %}
     <meta name="description" content="{{ site.description }}">
+    <meta name="keywords" content="{{ site.keyword }}">
+    <meta name="author" content="{{ site.author.name }}">
+  {% else %}
+    <meta name="description" content="{{ page.page_description }}">
+    <meta name="keywords" content="{{ site.keyword }}">
+    <meta name="author" content="{{ site.author.name }}">
   {% endif %}
 
   <title>
@@ -24,7 +30,7 @@
 
   <!-- RSS -->
   {% feed_meta %}
-  
+
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125083611-1"></script>
   <script>

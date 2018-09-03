@@ -3,6 +3,7 @@ layout: post
 title: "Cebu Photowalk by Asus PH"
 author: "Anbaks"
 categories: Photography
+page_description: "Photowalk is one of the most popular activities that photographers love doing"
 ---
 
 
